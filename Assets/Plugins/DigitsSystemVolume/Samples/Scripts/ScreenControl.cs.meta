@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 330d8414a101ffc4b82fcdd8a87165c6
+labels:
+- api
+- audio
+- device
+- mute
+- system
+- unmute
+- volume
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
